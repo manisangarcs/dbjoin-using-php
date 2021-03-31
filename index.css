@@ -1,0 +1,27 @@
+.vertical-menu{
+    width: 200px;
+    margin-top: 30px;
+}
+.vertical-menu a{
+    background-color: #eee;
+    display: block;
+    color: black;
+    padding: 18px;
+    border: black;
+    
+
+}
+
+.vertical-menu a:hover{
+    background-color: darkgray;
+}
+
+h2{
+    padding: 40px;
+    background: #1abc9c;
+    color: white;
+}
+
+body{
+    background-color: aliceblue;
+}

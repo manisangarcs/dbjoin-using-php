@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+
+form{
+    margin-top: 30px;
+}
+
+p{
+    padding-top: 10px;    
+}
+h2{
+    padding: 40px;
+    background: #1abc9c;
+    color: white;
+}
